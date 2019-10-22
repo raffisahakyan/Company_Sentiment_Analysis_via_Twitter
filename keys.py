@@ -1,0 +1,5 @@
+consumer_key = 'INSERT YOUR KEY'
+consumer_secret = 'INSERT YOUR SECRET'
+access_token = 'INSERT YOUR TOKEN'
+access_token_secret = 'INSERT YOUR TOKEN SECRET'
+mapquest_key = 'INSERT YOUR KEY'
