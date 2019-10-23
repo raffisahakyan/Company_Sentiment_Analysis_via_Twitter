@@ -13,7 +13,8 @@ Besides general use libraries you will also need to import [tweepy](https://www.
 
 ## Authors
 
-* **Raffi Sahakyan** - [LinkedIn](https://linkedin.com/in/raffi-sahakyan)
+* **Raffi Sahakyan** MS in Business Aanlytics Candidate 2020 at UCLA Anderson - [LinkedIn](https://linkedin.com/in/raffi-sahakyan)
+
 
 ## License
 
