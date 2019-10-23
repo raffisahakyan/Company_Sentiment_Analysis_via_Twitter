@@ -5,11 +5,11 @@ Twitter is a huge dataset of customer insights that businesses desperately need 
 
 For this project you will need to apply for the Twitter Developer Account [hete](https://developer.twitter.com/en/apply-for-access.html). The Twitter team usually approves the educational purpose accounts within one day.
 
-Additionally, you will need an access to OpenMapQuest Geocoding API for 
+Additionally, you will need an access to OpenMapQuest Geocoding API for world mapping [here](https://developer.mapquest.com). OpenMapQuest provides free access to its API for 15,000 transactions. Notably, it has certain requirements on referencing their product.  
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Besides general use libraries you will also need to import [tweepy](https://www.tweepy.org), [tweet-preprocessor](https://pypi.org/project/tweet-preprocessor/) , [folium](https://github.com/python-visualization/folium) and [geopy](https://github.com/geopy/geopy).  
 
 ```
 Give examples
