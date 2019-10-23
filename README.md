@@ -1,6 +1,6 @@
 # Company Name Sentiment Analysis via Twitter API
 
-Twitter is a huge dataset of customer insights that businesses desperately need to acquire insights from. According to Internet Live Stats, there 8868 tweets posted on Twitter per second. Currently, Twitter provides developer accounts with 15mins delayed access to tweets. This API is used in this project to retrieve tweets that mention the company brand name. Once we gather the tweets we will apply data preprocessing to clean the data up, then apply sentiment analysis for polarity check. The next step will include the visualization of the results and generation of WordCloud with the most frequent words. The final step of the project includes the illustration of the tweets on the world map.  
+Twitter is a huge dataset of customer insights that businesses desperately need to acquire insights from. According to Internet Live Stats, there 8868 tweets posted on Twitter per second. Currently, Twitter provides developer accounts with 15mins delayed access to tweets. This API is used in this project to retrieve tweets that mention the company brand name. Once we gather the tweets we will apply data preprocessing to clean the data up, then apply sentiment analysis for polarity check. The next step will include the visualization of the results in a bar plot and generation of WordCloud with the most frequent words. The final step of the project includes the illustration of the tweets on the world map.  
 ## Getting Started
 
 For this project you will need to apply for the Twitter Developer Account [hete](https://developer.twitter.com/en/apply-for-access.html). The Twitter team usually approves the educational purpose accounts within one day.
@@ -11,71 +11,9 @@ Additionally, you will need an access to OpenMapQuest Geocoding API for world ma
 
 Besides general use libraries you will also need to import [tweepy](https://www.tweepy.org), [tweet-preprocessor](https://pypi.org/project/tweet-preprocessor/) , [folium](https://github.com/python-visualization/folium) and [geopy](https://github.com/geopy/geopy).  
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Raffi Sahakyan** - [LinkedIn](https://linkedin.com/in/raffi-sahakyan)
 
 ## License
 
@@ -83,6 +21,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Inspiration of this project was a 5 day Python Bootcamp taught by Paul Deitel at UCLA Anderson School of Management, as part of the MSBA Class of 2020 Orientation program. 
