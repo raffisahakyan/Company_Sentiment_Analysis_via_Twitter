@@ -25,3 +25,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Inspiration of this project was a 5 day Python Bootcamp taught by Paul Deitel at UCLA Anderson School of Management, as part of the MSBA Class of 2020 Orientation program. 
+
+## Extra Links
+* [A Friend's link](https://medium.com/@raffisahakyan/sentiment-analysis-on-tweets-d12b04072e08?source=friends_link&sk=e14c5f5a1d5aecdf56cdfae34243eeca) for my Medium article on this topic.
