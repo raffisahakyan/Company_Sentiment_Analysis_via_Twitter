@@ -1,3 +1,5 @@
+![alt text](https://github.com/raffisahakyan/Company_Sentiment_Analysis_via_Twitter/blob/master/WordCloud.png)
+
 # Company Name Sentiment Analysis via Twitter API
 
 Twitter is a huge dataset of customer insights that businesses desperately need to acquire insights from. According to Internet Live Stats, there 8868 tweets posted on Twitter per second. Currently, Twitter provides developer accounts with 15mins delayed access to tweets. This API is used in this project to retrieve tweets that mention the company brand name. Once we gather the tweets we will apply data preprocessing to clean the data up, then apply sentiment analysis for polarity check. The next step will include the visualization of the results in a bar plot and generation of WordCloud with the most frequent words. The final step of the project includes the illustration of the tweets on the world map.  
